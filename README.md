@@ -1,7 +1,7 @@
         Hi there ,I am Muhammad Tahir 👋
 
 - 🔭 I’m currently working on Frontend(React.js) Projects.
-- 👯 I’m looking to collaborate on Web and App Development Projects.
+- 👯 I’m looking to collaborate on Web Development Projects.
 - 💬 Ask me about anything regarding React.js, i'm happy to help.
 - 📫 How to reach me: mtk456321@gmail.com 
 
