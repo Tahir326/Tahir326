@@ -5,6 +5,15 @@ I am a Computer Science student from Karachi-Pakistan,interested in learning var
 - 💬 Ask me about anything regarding frontend development, i'm happy to help.
 - 📫 How to reach me: https://muhammadtahir326.netlify.app/ 
 
+### Languages :
+HTML5
+CSS3
+Bootstrap
+Tailwind CSS
+JavaScript
+React
+
+
 
 
 <!--
