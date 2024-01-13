@@ -2,7 +2,7 @@
 I am a Computer Science student from Karachi-Pakistan,interested in learning various technologies, especially those related to web development.
 - 🔭 I’m currently working on Frontend(React.js) Projects.
 - 👯 I’m looking to collaborate on Web Development Projects.
-- 💬 Ask me about anything regarding React.js, i'm happy to help.
+- 💬 Ask me about anything regarding frontend development, i'm happy to help.
 - 📫 How to reach me: https://muhammadtahir326.netlify.app/ 
 
 
