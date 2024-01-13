@@ -1,5 +1,5 @@
 ### Hi there ,I am Muhammad Tahir 👋
-I am a Computer Science student from Karachi, Pakistan,interested in learning various technologies, especially those related to web development.
+I am a Computer Science student from Karachi-Pakistan,interested in learning various technologies, especially those related to web development.
 - 🔭 I’m currently working on Frontend(React.js) Projects.
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 💬 Ask me about anything regarding React.js, i'm happy to help.
