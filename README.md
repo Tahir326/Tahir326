@@ -6,12 +6,12 @@ I am a Computer Science student from Karachi-Pakistan,interested in learning var
 - 📫 How to reach me: https://muhammadtahir326.netlify.app/ 
 
 ### Languages :
-HTML5
+[HTML5
 CSS3
 Bootstrap
 Tailwind CSS
 JavaScript
-React
+React](https://github.com/Tahir326/Tahir326/issues/1#issue-2080328025)
 
 
 
