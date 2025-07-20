@@ -1,4 +1,4 @@
-# 👋 Hi, I am Muhammad Tahir
+## 👋 Hi, I am Muhammad Tahir
 
 I am a Computer Science graduate from Karachi Pakistan, with a strong passion for exploring and working with modern technologies.
 
