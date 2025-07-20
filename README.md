@@ -8,4 +8,5 @@ I am a Computer Science graduate from Karachi Pakistan, with a strong passion fo
 
 💬 Feel free to reach out with any questions related to web development. I am always happy to help
 
-📫 Portfolio: <u> muhammadtahir326.netlify.app </u>
+📫 Portfolio: [muhammadtahir326.netlify.app](https://muhammadtahir326.netlify.app/)
+
