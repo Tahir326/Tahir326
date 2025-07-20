@@ -6,6 +6,6 @@ I am a Computer Science graduate from Karachi Pakistan, with a strong passion fo
 
 👯 Open to collaboration on web development and full-stack projects
 
-💬 Feel free to reach out with any questions related to web development.I'm always happy to help
+💬 Feel free to reach out with any questions related to web development. I am always happy to help
 
 📫 Portfolio: muhammadtahir326.netlify.app
